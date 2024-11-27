@@ -1,4 +1,6 @@
-# Database: ABC Company
+# Database: ABC Company (CS 4347 Fall 2024)
+Implemented from mid-October 2024 to November 2024.
+
 In this project, use the following information to develop a database system. 
 There is a company called ABC Company, which purchases parts from vendors to produce some products. The company has several departments, marketing sites, and parts supply vendors.
 1.	For each department, the department id and department name will be recorded.
